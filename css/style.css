@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "digital";
+    src: url(fonts/DS-DIGI.TTF) format('truetype');
+
+}
+
+:root {
+    --Cinza: #C0C2C4;
+    --AzulClaro: #03a9f4;
+    --Vermelho: #f44336;
+    --Preto: #212121;
+    --BrancoTela: #fafafa;
+    --laraja: #f68410; 
+}

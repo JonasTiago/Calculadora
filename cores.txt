@@ -1,0 +1,8 @@
+Cores do projeto--
+
+Cinza - #C0C2C4
+AzulClaro  - #03a9f4
+Vermelho CE - #f44336
+Preto C - #212121
+Branco Tela - #fafafa
+laraja + - #f68410
