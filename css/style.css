@@ -26,8 +26,6 @@
     display: grid;
     grid-template-rows: 25% 75%;
     grid-template-columns: 100%;
-    width: 40%;
-    height: 60vh;
     margin: auto;
     margin-top: 15vh;
 }
@@ -54,6 +52,19 @@
     gap: 2.5%;
 }
 
+@media screen and (min-width: 320px) {
+    .calculadora {
+        width: 90%;
+        height: 60vh;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .calculadora {
+        width: 30%;
+        height: 60vh;
+    }
+}
 
 
 
